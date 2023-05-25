@@ -1,1 +1,1 @@
-# Coffee-shop-using-HTML-CSS
+# A simple  Coffee shop project using html-css
